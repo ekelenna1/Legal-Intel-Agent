@@ -4,7 +4,7 @@ from langchain_ollama import ChatOllama, OllamaEmbeddings
 from langchain_chroma import Chroma
 from langchain_classic.chains import RetrievalQA
 
-load_dotenv()
+#load_dotenv()
 
 def get_legal_agent():
     #connect to brain (db)

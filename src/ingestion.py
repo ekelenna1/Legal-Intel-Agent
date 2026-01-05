@@ -7,7 +7,7 @@ from langchain_chroma import Chroma
 from langchain_community.vectorstores import Chroma
 from dotenv import load_dotenv
 
-load_dotenv()
+#load_dotenv()
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 
