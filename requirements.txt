@@ -1,8 +1,12 @@
 langchain
+langchain-core
 langchain-openai
+langchain-community
+langchain-text-splitters
 langgraph
 pytesseract
 pillow
 python-dotenv
 fastapi
 uvicorn
+chromadb
