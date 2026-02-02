@@ -1,8 +1,6 @@
 # Legal-Intel-Agent 
 An autonomous RAG agent designed to automate legal discovery by synthesizing case facts from unstructured PDFs via OCR and reasoning loops.
 
-##  The Mission
-Transitioning my experience in high-concurrency systems (1B+ visits) into the frontier of agentic workflows. This project explores how autonomous "Reasoning Loops" can improve accuracy in high-stakes legal retrieval.
 
 ##  Key Features
 - **Agentic Reasoning:** Uses a "Plan-and-Execute" pattern to verify citations.
